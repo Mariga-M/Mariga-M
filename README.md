@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ms_Mariga 😊🍍
 
 # 💫 About Me:
-🔭 I’m currently working on my portfolio 👩‍💻 and UI/UX
+🔭 I’m currently upskilling in UI/UX and developing Frontend Projects.👩‍💻
 <br>🤝 How to reach me: caroline.mariga77@gmail.com<br>⚡ Fun fact : I jump rope everyday 😊
 
 
